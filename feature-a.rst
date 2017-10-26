@@ -18,7 +18,9 @@ Let's make a list (empty surrounding lines required):
 
 #. item 4
 
-An image: .. image:: /home/sudip/Downloads/WP_20170825_12_44_48_Pro.jpg
+#.. image:: /home/sudip/Downloads/WP_20170825_12_44_48_Pro.jpg
+
+.. image:: unnamed.png
 
 `Google Link <http://www.google.com>`_
 
